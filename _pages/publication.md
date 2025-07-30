@@ -4,9 +4,11 @@ title: "Publications"
 ---
 
 
-# Publications
 
 1.	Marucco, F., Boiani, M. V., Dupont, P., **Milleret, C**., Avanzinelli, E., Pilgrim, K., ... & Bischof, R. (2023). A multidisciplinary approach to estimating wolf population size for long‐term conservation Conservation Biology, 37(6), e14132. , e01179. 
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 2.	Edelhoff, H., **Milleret, C**., Ebert, C., Dupont, P., Kudernatsch, T., Zollner, A., ... & Peters, W. (2023) Sexual segregation results in pronounced sex-specific density gradients in the mountain ungulate, Rupicapra rupicapra Communications Biology, 6(1), 979. , e01179. 
 3.	Ausilio, G., Sand, H., Wikenros, C., Aronsson, M., **Milleret, C**., Nordli, K., ... & Zimmermann, B. (2023). Effects of large carnivores, hunter harvest, and climate on the mortality of moose calves in a partially migratory population Wildlife Biology, e01179. 
 4.	Moqanaki, E., **Milleret, C**., Dupont, P., Brøseth, H., & Bischof, R. (2023). Wolverine density distribution reflects past persecution and current management in Scandinavia Ecography , (87) e06689. 
