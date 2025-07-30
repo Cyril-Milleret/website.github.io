@@ -1,12 +1,13 @@
 ---
 permalink: /publication/
 title: "Publications"
+font-size:80%
 ---
 
 
+1. Boiani, M. V., Dupont, P., Bischof, R., Milleret, C., Friard, O., Geary, M., Avanzinelli, E., von Hardenberg, A., & Marucco, F. (2024). When enough is enough: Optimising monitoring effort for large-scale wolf population size estimation in the Italian Alps. Ecology and Evolution, 14, e70204. https://doi.org/10.1002/ece3.70204 
 
-1.	Marucco, F., Boiani, M. V., Dupont, P., **Milleret, C**., Avanzinelli, E., Pilgrim, K., ... & Bischof, R. (2023). A multidisciplinary approach to estimating wolf population size for long‐term conservation Conservation Biology, 37(6), e14132. , e01179. 
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+1.	Marucco, F., Boiani, M. V., Dupont, P., **Milleret, C**., Avanzinelli, E., Pilgrim, K., ... & Bischof, R. (2023). A multidisciplinary approach to estimating wolf population size for long‐term conservation Conservation Biology, 37(6), e14132. , e01179. <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 2.	Edelhoff, H., **Milleret, C**., Ebert, C., Dupont, P., Kudernatsch, T., Zollner, A., ... & Peters, W. (2023) Sexual segregation results in pronounced sex-specific density gradients in the mountain ungulate, Rupicapra rupicapra Communications Biology, 6(1), 979. , e01179. 
