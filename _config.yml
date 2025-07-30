@@ -22,7 +22,7 @@ repository               : "https://cyril-milleret.github.io/website.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Cyril Milleret"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative ecology"
