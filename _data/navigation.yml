@@ -14,8 +14,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: _pages/portfolio-1/
+  - title: "Software"
+    url: /software/
 
 
 #  - title: "Portfolio"
