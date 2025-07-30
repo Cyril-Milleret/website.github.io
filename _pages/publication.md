@@ -2,7 +2,6 @@
 permalink: /publication/
 title: "Publications"
 ---
-
 1. Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122.
 2. Moqanaki, E., **Milleret, C**., Dupont, P., Mattisson, J., Dey, S., Brøseth, H., ... & Bischof, R. (2025). Environmental variability across space and time drives the recolonization pattern of a historically persecuted large carnivore. Proceedings of the National Academy of Sciences, 122(5), e2401679122.
 3. Ausilio, G., Sand, H., Wikenros, C., Aronsson, M., **Milleret, C**, Nordli, K., ... & Zimmermann, B. (2024). Effects of large carnivores, hunter harvest, and weather on the mortality of moose calves in a partially migratory population. Wildlife Biology, 2024(6), e01179.
@@ -12,12 +11,12 @@ title: "Publications"
 2.	Edelhoff, H., **Milleret, C**., Ebert, C., Dupont, P., Kudernatsch, T., Zollner, A., ... & Peters, W. (2023) Sexual segregation results in pronounced sex-specific density gradients in the mountain ungulate, Rupicapra rupicapra Communications Biology, 6(1), 979. , e01179. 
 3.	Ausilio, G., Sand, H., Wikenros, C., Aronsson, M., **Milleret, C**., Nordli, K., ... & Zimmermann, B. (2023). Effects of large carnivores, hunter harvest, and climate on the mortality of moose calves in a partially migratory population Wildlife Biology, e01179. 
 4.	Moqanaki, E., **Milleret, C**., Dupont, P., Brøseth, H., & Bischof, R. (2023). Wolverine density distribution reflects past persecution and current management in Scandinavia Ecography , (87) e06689. 
-5.	Neby, M., Andreassen, H., **Milleret, C**., P., Pedersen, S., Tamayo, A. M. P., Sánchez, D. C., ... & Zimmermann, B. (2023). An evaluation of spatial capture-recapture models applied to ungulate non-invasive genetic sampling data Biodiversity Data Journal , (11).
+5.	Neby, M., Andreassen, H., **Milleret, C**., P., Pedersen, S., Tamayo, A. M. P., Sánchez, D. C., ... & Zimmermann, B. (2023). Small rodent monitoring at Birkebeiner road, Norway. Biodiversity Data Journal, 11, e105914.
 6.	Kervellec, M., **Milleret, C**., Vanpé, C., Quenette, P. Y., Sentilles, J., Palazón, S., ... & Gimenez, O. (2023). An evaluation of spatial capture-recapture models applied to ungulate non-invasive genetic sampling data Biological Conservation , (87) e22373. 
 7.	Dupont, P., Bischof, R., **Milleret, C**., Peters, W., Edelhoff, H., Ebert, C., Klamm, A., and Hohmann, U. (2023) An evaluation of spatial capture-recapture models applied to ungulate non-invasive genetic sampling data Journal of Wildlife Management , (87) e22373. 
 8.	Tourani, M., Franke, F., Heurich, M., Henrich, M., Peterka, T., Ebert, C., Oeser, J., Edelhoff, H., **Milleret, C**., Dupont, P., Bischof, R., Peters, W., (2023) Spatial variation in red deer density in a transboundary forest ecosystem, Scientific Reports , (13) 4513. 
 9.	Dey, S., Moqanaki, E., **Milleret, C**., Dupont, P., Tourani, M., Bischof, R., (2023) Modelling spatially autocorrelated detection probabilities in spatial capture-recapture using random effects Ecological Modelling (479) 110324.
-10.	 **Milleret, C**., Dey, S., Dupont, P., Brøseth, H., Turek, D., de Valpine P., Bischof, R., (2022) Estimating spatially variable and density-dependent survival using open-population spatial capture–recapture models Ecology 104(2): e3934
+10.	**Milleret, C**., Dey, S., Dupont, P., Brøseth, H., Turek, D., de Valpine P., Bischof, R., (2022) Estimating spatially variable and density-dependent survival using open-population spatial capture–recapture models Ecology 104(2): e3934
 11.	 Zhang, W., Chipperfield, J., Illian, J., Dupont, P., **Milleret, C**., De Valpine, p., Bischof, R, (2022) A flexible and efficient Bayesian implementation of point process models for spatial capture‐recapture data Ecology 104(1): e3887
 12.	Semper-Pascual, A., Bischof, R., **Milleret, C**., et al. (2022) Occupancy winners in tropical protected forests: a pantropical analysis Proceedings of the royal society B 2892022045720220457 
 13.	Theng, M., **Milleret, C**., Bracis, C., Cassey, P., Delean, S. (2022) Confronting spatial capture–recapture models with realistic animal movement simulations Ecology 12(7):e3676
